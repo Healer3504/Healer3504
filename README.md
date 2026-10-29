@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hola! This is Praveenya Karumuri<br><br>Final-year Computer Science undergraduate specializing in backend systems, AI-powered applications, and scalable architectures. Experienced in building production-style systems using FastAPI, React, and computer vision pipelines, with strong foundations in data structures, algorithms, and system design.
 
 
